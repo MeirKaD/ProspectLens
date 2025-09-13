@@ -1,0 +1,7 @@
+langgraph
+langchain
+fastapi
+uvicorn
+langchain-brightdata
+langchain_weaviate
+langchain_openai
